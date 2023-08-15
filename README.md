@@ -2,4 +2,4 @@
 The OFFICIAL Chicken Client installer application.
 
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://semver.org)
+[![Version](https://img.shields.io/badge/version-1.3.44-blue.svg)](https://github.com/ZoeyTheChicken/Chicken-Client-Installer)
