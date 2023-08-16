@@ -1,7 +1,17 @@
-Imports System.Windows.Forms
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JS Function Example</title>
+</head>
+<body>
+    <script>
+        // Define the function named dhdfedf
+        function dhdfedf() {
+            alert("This is the dhdfedf function!");
+        }
 
-Module Module1
-    Sub Main()
-        MessageBox.Show("Hi")
-    End Sub
-End Module
+        // Call the dhdfedf function
+        dhdfedf();
+    </script>
+</body>
+</html>
