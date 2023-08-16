@@ -28,6 +28,6 @@ To build it, make sure the settings at the top middle say, Release - Any CPU. If
 # DEPENDENCIES
 
 You need:
-#1 - .NET Framework [.NET Framework](https://img.shields.io/badge/version-4.7.2-red.svg)](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net472)
+#1 - .NET Framework [![.NET Framework](https://img.shields.io/badge/version-4.7.2-red.svg)](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net472)
 
-#2 - Visual Studio 2022 [visual Studio 2022](https://img.shields.io/badge/version-17.5.3-red.svg)
+#2 - Visual Studio 2022 [![visual Studio 2022](https://img.shields.io/badge/version-17.5.3-red.svg)
