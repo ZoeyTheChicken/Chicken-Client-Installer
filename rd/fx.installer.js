@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>JS Function Example</title>
+    <title>Function</title>
 </head>
 <body>
     <script>
