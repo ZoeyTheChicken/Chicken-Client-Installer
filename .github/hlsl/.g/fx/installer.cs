@@ -1,1 +1,3 @@
-
+namespace installer {
+}
+end namespace
