@@ -9,7 +9,7 @@ The OFFICIAL Chicken Client installer application.
 
 Chicken Client Installer allows you to install Chicken Client very easily via one installer! Download now.
 
-As of 1.5.0, Chicken Client Experience Bugs were fixeed!
+As of 1.5.0, Chicken Client Experience Bugs were fixed!
 
 # CONTRIBUTE
 
