@@ -2,7 +2,7 @@
 The OFFICIAL Chicken Client installer application.
 
 # Installer Version
-[![Version](https://img.shields.io/badge/version-1.10.0-red.svg)](https://github.com/ZoeyTheChicken/Chicken-Client-Installer)
+[![Version](https://img.shields.io/badge/version-1.11.7-red.svg)](https://github.com/ZoeyTheChicken/Chicken-Client-Installer)
 
 # Linux Installer Version
 [![Version](https://img.shields.io/badge/version-1.0-red.svg)](https://github.com/ZoeyTheChicken/Chicken-Client-Installer)
