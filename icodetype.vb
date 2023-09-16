@@ -2,6 +2,6 @@ Imports System.Windows.Forms
 
 Module Module1
     Sub Main()
-        MessageBox.Show("Hi")
+        MessageBox.Show("H")
     End Sub
 End Module
